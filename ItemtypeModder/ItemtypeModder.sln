@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemtypeModder", "ItemtypeModder\ItemtypeModder.csproj", "{7F611B49-6653-442F-B5F4-D36B4F53607B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F611B49-6653-442F-B5F4-D36B4F53607B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F611B49-6653-442F-B5F4-D36B4F53607B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F611B49-6653-442F-B5F4-D36B4F53607B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F611B49-6653-442F-B5F4-D36B4F53607B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FA91AF6-8ECB-4FF4-BBCF-7E77EF28EB08}
+	EndGlobalSection
+EndGlobal
